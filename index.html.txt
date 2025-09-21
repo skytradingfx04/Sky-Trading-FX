@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sky Trading – Learn & Earn</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #001f3f, #003366);
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 60px 20px;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.3rem;
+      margin-bottom: 25px;
+    }
+    .btn {
+      padding: 15px 30px;
+      margin: 10px;
+      border: none;
+      border-radius: 5px;
+      background: gold;
+      color: black;
+      font-weight: bold;
+      font-size: 1.2rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    h2 {
+      margin-bottom: 20px;
+      font-size: 2rem;
+      color: gold;
+    }
+    .features {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .card {
+      background: rgba(255,255,255,0.1);
+      padding: 20px;
+      border-radius: 10px;
+      width: 250px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+    .card h3 {
+      color: gold;
+      margin-bottom: 10px;
+    }
+    footer {
+      padding: 20px;
+      background: #000814;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="Sky Trading Logo" width="120">
+  <h1>Sky Trading</h1>
+  <p>Learn & Earn Together – Cashback, Rewards & VIP Signals</p>
+  <a href="https://wa.me/your-number" target="_blank" class="btn">WhatsApp Us</a>
+  <a href="https://your-signup-link.com" target="_blank" class="btn">Join Now</a>
+</header>
+
+<section>
+  <h2>Why Choose Sky Trading?</h2>
+  <div class="features">
+    <div class="card">
+      <h3>💵 Cashback Rewards</h3>
+      <p>Earn cashback on every standard lot traded.</p>
+    </div>
+    <div class="card">
+      <h3>🎯 Discipline Rewards</h3>
+      <p>Daily rewards up to $50 & monthly contests up to $1,000.</p>
+    </div>
+    <div class="card">
+      <h3>📊 VIP Signals</h3>
+      <p>90% accuracy signals, exclusive for members.</p>
+    </div>
+    <div class="card">
+      <h3>🔒 Secure Transactions</h3>
+      <p>Fast deposits & withdrawals, fully guaranteed.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>How It Works</h2>
+  <p>1. Sign Up → 2. Start Trading → 3. Earn Rewards → 4. Withdraw Anytime</p>
+</section>
+
+<section>
+  <h2>What Traders Say</h2>
+  <p>⭐ ⭐ ⭐ ⭐ ⭐ “Sky Trading changed my journey – I earn cashback while learning!”</p>
+</section>
+
+<footer>
+  <p>© 2025 Sky Trading. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
